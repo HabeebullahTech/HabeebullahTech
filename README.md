@@ -33,8 +33,8 @@
 
 
 [youtube]: https://www.youtube.com/c/baytulhub
-[instagram]: https://www.instagram.com/mubarakah/
-[linkedin]: https://www.linkedin.com/in/mubarakah1
+[instagram]: https://www.instagram.com/abeebullah/
+[linkedin]: https://www.linkedin.com/in/abeebullah1
 
 
 
